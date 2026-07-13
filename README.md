@@ -4,7 +4,7 @@ A Luau Script for every Keyboard Escape based Game (if they used global Template
 
 ### Farming:
 
-[+] Auto Wins -- DETECTED RN
+[+] Auto Wins -- Not Safe in all Games
 
 [+] Auto Speed
 
