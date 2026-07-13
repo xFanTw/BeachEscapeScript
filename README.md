@@ -4,7 +4,7 @@ A Luau Script for the Game Beach Escape
 
 ### Farming:
 
-[+] Auto Wins
+[+] Auto Wins -- DETECTED RN
 
 [+] Auto Speed
 
